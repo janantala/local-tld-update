@@ -1,0 +1,19 @@
+{
+  "name": "local-tld-update",
+  "version": "0.1.0",
+  "description": "Maintain a TLD on localhost for all your projects.",
+  "directories": {},
+  "main":"lib/local-tld.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": "https://github.com/janantala/local-tld-update",
+  "keywords": [
+    "tld",
+    "pow"
+  ],
+  "author": "Jan Antala <jan@antala.sk>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
