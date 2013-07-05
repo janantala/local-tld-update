@@ -6,7 +6,7 @@ See http://github.com/hoodiehq/local-tld for a description.
 
 ## I want my app to register itself with local-tld!
 
-    var ltld = require("./lib/local-tld");
+    var ltld = require("local-tld-update");
     ltld.update("project", server.address().port);
 
 ## License
