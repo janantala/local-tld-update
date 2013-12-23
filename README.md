@@ -13,4 +13,4 @@ See http://github.com/hoodiehq/local-tld for a description.
 
 The MIT License
 
-Copyright (c) 2013 Jan Antala, https://github.com/janantala
+Copyright (c) 2013 [Jan Antala](http://www.janantala.com)
